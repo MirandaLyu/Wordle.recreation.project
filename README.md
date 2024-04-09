@@ -19,5 +19,6 @@ If I have more time, I would definitely add more funtionalities/features:
 
 * **a pre-defined word list**: this kind of game must have a standard to define whether a guessing word is a valid word. A valid word should exist in dictionaries but also cannot be too niche, so the standard should be considered very carefully.
 * **a virtual keyboard as hint**: I began to realize why nytimes Wordle has a keyboard down at the bottom of the page. It can tell users what letters have not be used. I think this game cannot go without it.
+* **better UI/UX**: my current UI/UX is just the very basic one. I think at least the message to the user can be better formed, instead of alerts. And limiting the number of times a user can play a day is a good point too.
 
 It's a fun learning experience!
