@@ -1,0 +1,14 @@
+.background {
+    position: sticky;
+    top:0%;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+}
+
+.space {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+}

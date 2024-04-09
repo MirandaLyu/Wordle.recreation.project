@@ -1,0 +1,27 @@
+.grey {
+    height: 30px;
+    width: 30px;
+    border: 1.5px solid black;
+    background-color: rgb(142, 140, 140);
+}
+
+.yellow {
+    height: 30px;
+    width: 30px;
+    border: 1.5px solid black;
+    background-color: yellow;
+}
+
+.green {
+    height: 30px;
+    width: 30px;
+    border: 1.5px solid black;
+    background-color: rgb(3, 192, 3);
+}
+
+.default {
+    height: 30px;
+    width: 30px;
+    border: 1.5px solid black;
+    background-color: white;
+}
